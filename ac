@@ -1,0 +1,1 @@
+ojoijoijijoidjoifgit 提交了 tag 而没有提交 commit 代码到远程的仓库问题（意思是，本地有一个 commit 未提交到远程，但是给当前commit 打上了 tag ，并且仅仅执行 git push --tags 提交 tag）
